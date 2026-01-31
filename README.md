@@ -1,2 +1,7 @@
-# HR-Analytics-PowerBI
-I have created an interactive HR analytics dashboard built in Power BI for the HR department of Atliq. The dashboard analyzes employee attendance data to track office presence, work-from-home, and sick leave patterns, enabling HR and operations teams to make informed workforce and facility-planning decisions.
+# HR Analytics dashboard for AtliQ
+## Project Objectives
+•	Monitor overall Presence %, WFH %, and SL %
+•	Analyze attendance trends across time and days of the week
+•	Enable employee-level and date-level drill-down
+•	Support strategic HR, event, and infrastructure planning
+
