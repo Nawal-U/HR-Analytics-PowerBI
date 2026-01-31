@@ -19,7 +19,7 @@
 All monthly attendance files followed an identical Excel structure. Therefore, data cleaning and transformation were performed once using Power Query and converted into a reusable template. This approach allows new monthly data to be refreshed without reapplying transformations, ensuring consistent data quality, reduced manual effort, and scalable report maintenance.
 
 ## Dashboard
-<img width="1404" height="817" alt="PowerBI-dashboard" src="https://github.com/user-attachments/assets/56108ca5-759c-42f4-86a2-5f80ac323dcc" />
+<img width="1408" height="819" alt="PowerBI-dashboard" src="https://github.com/user-attachments/assets/9e86e9e9-c00d-4403-a498-e8fde9b2669c" />
 
 ## Key Insights & Business Value
 - The dashboard helps identify days with maximum employee presence, allowing HR to schedule trainings, meetings, and engagement activities when participation is likely to be highest.
