@@ -22,11 +22,9 @@ All monthly attendance files followed an identical Excel structure. Therefore, d
 - <a href="https://github.com/Nawal-U/HR-Analytics-PowerBI/blob/main/PowerBI-dashboard.png">Dashboard</a>
 
 ## Key Insights & Business Value
-- The dashboard helps identify days with maximum employee presence, allowing HR to schedule trainings, meetings, and engagement activities when participation is likely to be highest.
-- A clear pattern shows higher WFH adoption toward the end of the week, particularly on Fridays. This insight enables facilities teams to schedule maintenance, electrical work, or office upgrades with minimal disruption.
-- The increasing trend in WFH usage indicates that the organization could benefit from a structured hybrid work model, balancing in-office collaboration with remote flexibility.
-- Understanding attendance patterns helps HR and management optimize workspace utilization, reduce unnecessary facility costs, and plan resources more efficiently.
-- The dashboard empowers HR leaders to move from intuition-based decisions to evidence-based workforce planning.
+- The data indicates an average 91.83% presence rate, with 9.18% of WFH usage, reflecting strong attendance and growing WFH trends.
+- Fridays showed the highest WFH usage (11.7%), making them optimal for scheduling office maintenance or low attendance activities.
+- An upward WFH trend highlights the opportunity for executives to adopt a hybrid work model, supporting operational cost reduction.
 
 ## Disclaimer
 The dataset used in this project was sourced from a YouTube learning project, while the dashboard design, data modeling, and insights were independently developed.
